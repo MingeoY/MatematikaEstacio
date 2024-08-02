@@ -34,5 +34,5 @@ Welcome to Math E-station! Here you can change numbers in Esperanto to Hanzi. RE
 `0-o, 1000000-oj, 1000000000-on, 1-a, 2-aj, 3-an, 4-ajn, 5-obla, 6-ono, 7-opa`
 
 ## 输出文本 Output
-`零o, 兆oj, 亿on, 一a, 二aj, 三an, 四ajn, 五倍a, 六分o, 七每a`
+`零오, 兆외, 亿온, 一아, 二애, 三안, 四앤, 五倍아, 六分오, 七每아`
 
